@@ -1,0 +1,9 @@
+C:\Users\2091199\source\repos\WindowsServiceUsage\WindowsServiceUsage\bin\Debug\WindowsServiceUsage.exe.config
+C:\Users\2091199\source\repos\WindowsServiceUsage\WindowsServiceUsage\bin\Debug\WindowsServiceUsage.exe
+C:\Users\2091199\source\repos\WindowsServiceUsage\WindowsServiceUsage\bin\Debug\WindowsServiceUsage.pdb
+C:\Users\2091199\source\repos\WindowsServiceUsage\WindowsServiceUsage\obj\Debug\WindowsServiceUsage.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\WindowsServiceUsage\WindowsServiceUsage\obj\Debug\WindowsServiceUsage.ProjectInstaller.resources
+C:\Users\2091199\source\repos\WindowsServiceUsage\WindowsServiceUsage\obj\Debug\WindowsServiceUsage.csproj.GenerateResource.cache
+C:\Users\2091199\source\repos\WindowsServiceUsage\WindowsServiceUsage\obj\Debug\WindowsServiceUsage.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\WindowsServiceUsage\WindowsServiceUsage\obj\Debug\WindowsServiceUsage.exe
+C:\Users\2091199\source\repos\WindowsServiceUsage\WindowsServiceUsage\obj\Debug\WindowsServiceUsage.pdb
